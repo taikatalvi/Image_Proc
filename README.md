@@ -1,0 +1,1 @@
+OpenCV init template
